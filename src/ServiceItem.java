@@ -6,7 +6,11 @@
 
 /**
  *
- * @author diky
+ * @author 
+ * Nama  : Diva Sabila Ramadhan
+ * Kelas : IF1
+ * NIM   : 10119039
+ * Deskripsi Program : berisi interface dari Service item 
  */
 public interface ServiceItem {
     public void displayService();
